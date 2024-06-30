@@ -547,3 +547,21 @@ h6,
 .copyright a:hover {
     color: var(--primary);
 }
+
+
+/*** Moersito ***/
+.text-primary {
+    color: #1b8754 !important;
+}
+.navbar .navbar-nav .nav-link:hover, .navbar .navbar-nav .nav-link.active {
+    color: #1b8754;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #1b8754;
+    border-color: #1b8754;
+}
+.btn-primary:hover {
+    background-color: #0f5535;
+    border-color: #0f5535;
+}
