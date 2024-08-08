@@ -565,3 +565,6 @@ h6,
     background-color: #0f5535;
     border-color: #0f5535;
 }
+.bg-dark {
+    background-color: #0a4028 !important;
+}
